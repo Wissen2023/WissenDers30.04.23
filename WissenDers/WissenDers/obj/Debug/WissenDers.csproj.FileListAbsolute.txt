@@ -1,0 +1,8 @@
+B:\C#\WissenDers\WissenDers\bin\Debug\WissenDers.exe.config
+B:\C#\WissenDers\WissenDers\bin\Debug\WissenDers.exe
+B:\C#\WissenDers\WissenDers\bin\Debug\WissenDers.pdb
+B:\C#\WissenDers\WissenDers\obj\Debug\WissenDers.csproj.AssemblyReference.cache
+B:\C#\WissenDers\WissenDers\obj\Debug\WissenDers.csproj.SuggestedBindingRedirects.cache
+B:\C#\WissenDers\WissenDers\obj\Debug\WissenDers.csproj.CoreCompileInputs.cache
+B:\C#\WissenDers\WissenDers\obj\Debug\WissenDers.exe
+B:\C#\WissenDers\WissenDers\obj\Debug\WissenDers.pdb
